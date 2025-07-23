@@ -7,7 +7,7 @@ void main() {
 
   /// Set your access token here:
   MapboxOptions.setAccessToken(
-    "sk.eyJ1IjoiYWxpYXRoZXI0MjEiLCJhIjoiY21kZWtkNGpwMDJ4dDJqc2U0aDZja2MxZSJ9.-DHcwC5yOkLXi2Pnlv-gGA",
+    "",
   );
   runApp(const MyApp());
 }
